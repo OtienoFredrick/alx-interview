@@ -3,6 +3,7 @@
 Solution to lockboxes problem
 """
 
+
 def canUnlockAll(boxes):
     """
     Determines whether all boxes can be unlocked.
