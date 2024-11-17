@@ -12,7 +12,6 @@ def canUnlockAll(boxes):
     """
     Determines if all other boxes can be opened
     """
-    # Check if the boxes is not a List or its len == 0
     if not isinstance(boxes, list):
         return False
     elif len(boxes) == 0:
